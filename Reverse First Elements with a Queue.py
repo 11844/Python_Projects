@@ -18,8 +18,6 @@ def reverse_first_k(queue, k):
 
     return queue
 
-
-
 # ▶ Example Usage
 jls_extract_var = 5
 q = deque([1, 2, 3, 4, jls_extract_var])
